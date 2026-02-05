@@ -1,0 +1,3 @@
+com\queueless\backend\entity\Role.class
+com\queueless\backend\entity\User.class
+com\queueless\backend\repository\TimeSlotRepository.class
